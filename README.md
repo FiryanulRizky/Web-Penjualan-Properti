@@ -6,8 +6,8 @@ Platform tansaksi yang melibatkan kesepakatan antara pembeli dengan agen propert
 
 ## Teknologi Yang Digunakan
 
-- Framework laravel 9.11
-- PHP 8.1.4
+- Framework laravel 12.0
+- PHP 8.4.5
 - DBMS MySQL
 
 ## Highlight Fitur
