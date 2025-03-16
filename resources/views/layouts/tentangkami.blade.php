@@ -44,11 +44,11 @@
             <p>Selamat datang di E-Commerce Properti, sumber nomor satu Anda untuk semua hal transaksi Properti. Kami berdedikasi untuk memberikan yang terbaik dari transaksi Properti, dengan fokus pada kecepatan, kepercayaan, dan efisien.
                 <br>
                 <br>
-                <p>Didirikan pada tahun 2022 oleh Firyanul Rizky, Portal E-Commerce Properti ini telah dikembangkan ketika Firyanul Rizky pertama kali memulai hasratnya untuk cepat mendapatkan pekerjaan dan dapat dipercaya serta mendorong banyak orang untuk melakukan pencarian terkait transaksi properti sehingga Platform ini dapat menawarkan mesin pencari properti tercanggih di dunia. Kami sekarang melayani pelanggan di wilayah bali, dan sangat senang bahwa kami dapat mengubah hasrat kami menjadi situs web kami sendiri.</p>
+                <p>Didirikan pada tahun 2022 oleh <a href="http://jemari-edu.web.id">Jemari Edu</a>, Portal E-Commerce Properti ini telah dikembangkan ketika Jemari Edu pertama kali memulai hasratnya untuk cepat mendapatkan pekerjaan dan dapat dipercaya serta mendorong banyak orang untuk melakukan pencarian terkait transaksi properti sehingga Platform ini dapat menawarkan mesin pencari properti tercanggih di dunia. Kami sekarang melayani pelanggan di wilayah bali, dan sangat senang bahwa kami dapat mengubah hasrat kami menjadi situs web kami sendiri.</p>
                 <br>
                 <p>Kami harap Anda menikmati layanan kami sama seperti kami menikmati menawarkannya kepada Anda. Jika Anda memiliki pertanyaan atau komentar, jangan ragu untuk menghubungi kami.</p>
                 <br>
-                <p><i><b>Firyanul Rizky</b></i></p>
+                <p><i><b><a href="http://jemari-edu.web.id">Jemari Edu</a></b></i></p>
         </div>
     </div>
 
